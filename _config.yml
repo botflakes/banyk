@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
 title: botflakes | banyk
 description: Banyk’s Übersichtsseite
+github: 
+  is_project_page: false
