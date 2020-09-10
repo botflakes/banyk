@@ -2,6 +2,10 @@
 - Mit benutzen des Chats stimmst du automatisch den Community Guidelines von Twitch zu.  
 Diese kannst du [hier](https://www.twitch.tv/p/de-de/legal/community-guidelines/) einsehen!
 
+2. Discord Terms of Service
+- Mit benutzen meines Discord-Servers stimmtst du automatisch den TOS von Discord zu  
+Diese kannst du [hier](https://discordapp.com/terms) einstehen!
+
 2. Sei kein Idiot!
 - Wirklich, ohne Witz. Sei einfach kein Idiot!
 
@@ -25,10 +29,10 @@ Respektiert meine und die Privatsphäre der anderen.
 - Ausreden wie "Ich hab die Regeln nicht gelesen" oder "Ich hab doch ein Kappa genutzt" schützen nicht vor Strafe.
 
 9. Mods haben immer Recht
-- Solltet ihr trotzdem ein Problem mit einer Mod-Entscheidung haben kann dies gerne im #Support-Channel auf meinem [Discord](https://discord.gg/Vv2ZMqW) geklärt werden!
+- Solltet ihr trotzdem ein Problem mit einer Mod-Entscheidung haben kann dies gerne im #Support -Channel auf meinem [Discord](https://discord.gg/Vv2ZMqW) geklärt werden!
 
 10. Haltet euch bitte an diese Etiquette!
- ![Image](assets/images/twitch-etiquette.jpg)
+![Image](assets/images/twitch-etiquette.jpg)
 
 
 Alle weiteren Informationen rund um die Nutzungsbedingungen findest du [hier](https://help.twitch.tv/s/article/twitch-policies-and-guidelines)
