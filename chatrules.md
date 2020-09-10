@@ -13,8 +13,7 @@ Diese kannst du [hier](https://discordapp.com/terms) einstehen!
 - Keine Links zu komischen Seiten, anderen Streams oder ähnliches OHNE erlaubnis.
 
 4. Seid nett und respektvoll!
-- Ihr könnt gerne im Chat zum aktuellen Stream- bzw. RP-Geschehen diskutieren aber bitte nett und respektvoll!  
-Respektiert meine und die Privatsphäre der anderen.
+- Ihr könnt gerne im Chat zum aktuellen Stream- bzw. RP-Geschehen diskutieren aber bitte nett und respektvoll! Respektiert meine und die Privatsphäre der anderen.
 
 5. Spam, Spoiler, Meta- und Backseatgaming
 - Kein Spam, Spoiler, Meta- oder Backseatgaming, außer ich bitte explizit um Hilfe!
