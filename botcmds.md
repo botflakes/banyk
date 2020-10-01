@@ -2,7 +2,7 @@
 Hier seht ihr alle für Viewer verfügbaren Commands.
 
 | Command       | Usage - Beispiel          | Beschreibung                                                                  |
-|---------      |-------                    |--------------                                                                 |
+|:---------     |:-------                   |:--------------                                                                |
 |!cmds          |!cmds                      |Zeigt euch die URL zu dieser Seite.                                            |
 |!commands      |!commands                  |Zeigt euch die URL zu dieser Seite.                                            |
 |!dienstmarken  |!dienstmarken              |Zeigt euch eure gesammelten Dienstmarken an und die im Chat verbrachte Zeit.   |
@@ -22,7 +22,7 @@ Hier seht ihr alle für Viewer verfügbaren Commands.
 Hier seht ihr alle für Viewer verfügbaren Commands.
 
 | Command       | Usage - Beispiel          | Beschreibung                                                                                          |
-|---------      |-------                    |--------------                                                                                         |
+|:---------     |:-------                  |:--------------                                                                                         |
 |!account link  |!account link              |Der Bot schickt dir eine PM mit einem Befehl samt Code den du im Twitch Chat bei Banyk eingeben musst  |  
 |!lastclip      |!lastclip                  |Zeigt den letzten erstellten Clip an                                                                   |
 |!topclip       |!topclip                   |Zeigt den aktuell meistengesehenden Clip an                                                            |
