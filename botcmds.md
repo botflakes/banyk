@@ -4,7 +4,6 @@ Hier seht ihr alle für Viewer verfügbaren Commands.
 | Command       | Usage - Beispiel          | Beschreibung                                                                  |
 |:---------     |:-------                   |:--------------                                                                |
 |!auflösung     |!auflösung                 |Erklärung warum Banyk's Stream Blackbars hat                                   |
-|!bratwurst     |!bratwurst                 |Zeigt euch eine leckere Bratwurst /s                                           |
 |!bsg           |!bsg                       |Info Text zu Backseat Gaming                                                   |
 |!botify        |!botify                    |Zeigt euch den aktuell im Stream gespielten Song                               |
 |!chatrules     |!chatrules                 |Führt euch zu den Chatregeln                                                   |
