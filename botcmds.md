@@ -3,9 +3,8 @@ Hier seht ihr alle für Viewer verfügbaren Commands.
 
 | Command       | Usage - Beispiel          | Beschreibung                                                                  |
 |:---------     |:-------                   |:--------------                                                                |
-|!auflösung     |!auflösung                 |Erklärung warum Banyk's Stream Blackbars hat                                   |
 |!bsg           |!bsg                       |Info Text zu Backseat Gaming                                                   |
-|!botify        |!botify                    |Zeigt euch den aktuell im Stream gespielten Song                               |
+|!botify        |!botify                    |Zeigt euch den aktuell im Stream gespielten Song (sofern Banyk Spotify nutzt)  |
 |!chatrules     |!chatrules                 |Führt euch zu den Chatregeln                                                   |
 |!cmds          |!cmds                      |Zeigt euch die URL zu dieser Seite.                                            |
 |!commands      |!commands                  |Zeigt euch die URL zu dieser Seite.                                            |
@@ -24,7 +23,7 @@ Hier seht ihr alle für Viewer verfügbaren Commands.
 |!kuchen        |!kuchen username           |Wirft einem anderen User einen Kuchen in das Gesicht                           |
 |!meta          |!meta                      |Hinweis was Meta Gaming ist                                                    |
 |!server        |!server                    |Hinweis auf welchem Server ich RP spiele                                       |
-|!song          |!song                      |Zeigt euch den aktuell im Stream gespielten Song                               |
+|!song          |!song                      |Zeigt euch den aktuell im Stream gespielten Song (sofern Banyk Spotify nutzt)  |
 |!subhype       |!subhype                   |Was das macht? Keine Ahnung, probier es aus!                                   |
 |!party         |!party                     |Partymodus!                                                                    |
 |!ripupload     |!ripupload                 |Counter für wie oft der Upload eingebrochen ist                                |
